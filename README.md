@@ -24,4 +24,4 @@ $ yarn
 $ yarn dev
 ```
 
-O app estará disponível no seu browser pelo endereço http://localhost:8080.
+O app estará disponível no seu browser pelo endereço http://localhost:3000.
