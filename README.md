@@ -11,8 +11,8 @@ Abaixo segue uma pequena demonstração de funcionamento do app desenvolvido em 
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/adairjuneoaf/desafio-conceitos-reactjs
-$ cd desafio-conceitos-reactjs
+$ git clone https://github.com/adairjuneoaf/app-top-money
+$ cd app-top-money
 ```
 
 Para iniciá-lo, siga os passos abaixo:
