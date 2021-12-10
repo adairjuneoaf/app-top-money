@@ -12,7 +12,7 @@ new Server({
   seeds(server) {
     server.db.loadData({
       transactions: [
-        {
+        /*{
           id: 1,
           description: "Freela de website",
           type: "input",
@@ -27,7 +27,7 @@ new Server({
           category: "Casa",
           amount: 850,
           createAt: new Date("2021-02-14 11:00:00"),
-        },
+        },*/
       ],
     });
   },

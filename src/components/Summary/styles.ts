@@ -35,4 +35,17 @@ export const Container = styled.div`
 
     }
 
+    @media (max-width: 768px){
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    justify-items: center;
+
+    margin-top: -6rem;
+
+    div{
+        width: 80%;
+    }
+    }
+
 `
