@@ -1,4 +1,4 @@
-## Proketo desenvolvido durante aprendizado da trilha de ReactJS do curso Ignite by Rocketseat
+## Projeto desenvolvido durante aprendizado da trilha de ReactJS do curso Ignite by Rocketseat
 
 Abaixo segue uma pequena demonstração de funcionamento do app desenvolvido em React utilizando MirageJS.
 
